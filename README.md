@@ -4,7 +4,9 @@ Muhammad Nabil Akbar Musatafa 21/481679/PA/20981
 # Penjelasan Kode
 Program ini memakai beberapa modul dari paket SymPy seperti simplify, latex, dan parsing.sympy_parser yang digunakan untuk menyederhanakan ekspresi aljabar, mengonversi ekspresi ke dalam format LaTeX, dan menguraikan ekspresi simbolik menjadi ekspresi yang dapat dihitung.
 
+
 Program ini terdiri dari beberapa fungsi, yaitu:
+
 
 -	getExpr(raw_expr): untuk mengonversi string ekspresi matematika ke dalam ekspresi simbolik. Fungsi ini mengembalikan ekspresi simbolik yang disederhanakan.
 -	determinant(r1c1, r1c2, r2c1, r2c2): untuk menghitung determinan matriks 2x2.
